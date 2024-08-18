@@ -1,0 +1,36 @@
+*{
+    padding: 0%;
+    margin: 0%;
+
+}
+.pai{
+    justify-content: space-around;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+}
+.text{
+    padding-top: 75px;
+}
+.imgcarrinho{
+    height: 50px;
+}
+main{
+    height: 100vh;
+    background-image: url(fundo.png);
+}
+h1{
+    padding-left: 55px;
+    color: white;
+}
+.contato{
+    padding-left: 500px;
+    padding-top: 10px;
+}
+.numeros{
+    padding-right: 25px;
+    padding-top: 50px;
+}
+.imginsta{
+    padding-left: 10px;
+}

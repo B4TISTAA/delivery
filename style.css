@@ -1,0 +1,27 @@
+*{
+    padding: 0%;
+    margin: 0%;
+
+}
+.pai{
+    justify-content: space-around;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+}
+.text{
+    padding-top: 75px;
+}
+.imgcarrinho{
+    height: 50px;
+}
+main{
+    background-image: url(fundo.png);
+    height: 100vh;
+}
+.pai2{
+    display: flex;
+}
+.filho21{
+    padding: 375px 0 0 300px   
+}

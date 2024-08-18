@@ -1,0 +1,26 @@
+*{
+    padding: 0%;
+    margin: 0%;
+
+}
+.pai{
+    justify-content: space-around;
+    background-color: black;
+    display: flex;
+    flex-direction: row;
+}
+.text{
+    padding-top: 75px;
+}
+.imgcarrinho{
+    height: 50px;
+}
+main{
+    background-image: url(fundo.png);
+    height: 135vh;
+}
+.imgtxt{
+    padding-top: 70px;
+    padding-left: 70px;
+    height: 350px;
+}
